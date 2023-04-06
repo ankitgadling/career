@@ -363,7 +363,7 @@ body {
 
 .community {
   width: 100%;
-  min-height: 80vh;
+  /* min-height: 80vh; */
   margin: auto;
   padding-top: 30px;
   background:linear-gradient(45deg, #fa2424, #fb8721);
@@ -561,9 +561,9 @@ body {
     grid-template-columns: auto auto auto auto;
     width: 90%;
   }
-  .community{
+  /* .community{
     min-height: 50vh;
-  }
+  } */
 }
 @media (min-width: 770px) and (max-width: 80em){
   .profile-card:hover{
@@ -586,9 +586,9 @@ body {
     height: 200px;
     margin: 0;
   }
-  .community{
+  /* .community{
     min-height: 50vh;
-  }
+  } */
   .community{
     margin-top: 10px;
     padding-top: 50px;
